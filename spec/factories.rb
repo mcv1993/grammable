@@ -11,5 +11,5 @@ FactoryBot.define do
     message { "hello" }
     association :user
   end
-  
+
 end
